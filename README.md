@@ -5,7 +5,6 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 
-![Untitled design (2)](https://github.com/amolkapadi/React-native-bottom-tab-with-img-icon/assets/72144987/2f2a0c99-97b0-4518-91b4-47d974e6368e)
 
 ## Step 1: Start the Metro Server
 
