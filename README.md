@@ -34,7 +34,8 @@ npm run android
 # OR using Yarn
 yarn android
 ```
-![Uploading Untitled design (2).png…]()
+![Uploading Untitled design (3).png…]()
+
 
 ### For iOS
 
